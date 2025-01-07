@@ -7,3 +7,4 @@ I am currently working with/on/using:
 - Literally any distributed database, although preferably one with an active-active architecture. I've used recently: CockroachDB (fav), Cassandra, Scylla, TiDB, Riak(ish), YugabyteDB(ish), etc.
 - Clustering, Cluster networking, Kubernetes & Docker Swarm, etc.
 - NGINX (mostly) and Apache (not often)
+- Cloud providers but I hate them so I won't mention them here (except for Vultr, they're the best)

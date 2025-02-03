@@ -9,4 +9,4 @@ I am currently working with/on/using:
 - NGINX (mostly) and Apache (not so often)
 - Vultr, AWS, Azure
 
-I am also getting into running self-hosted LLMs and creating private API servers. I am using llama.cpp-python SDK as well as HuggingFace transformers SDK. External function calling and RAG are are the driving force behind this interest.
+I am also running self-hosted LLMs and creating private API servers. I am using llama.cpp-python SDK as well as HuggingFace transformers SDK. External function calling and RAG are are the driving force behind this interest.
